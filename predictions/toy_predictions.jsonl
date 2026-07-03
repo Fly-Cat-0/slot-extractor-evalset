@@ -1,0 +1,2 @@
+{"id":"ask-0001","output":{"action":"ask","missing_info":["project","start_time","duration"],"question":"可以，请问您想预约什么项目、明天下午具体几点、做多久？","info_complete":false}}
+{"id":"tool-call-0001","output":{"action":"tool_call","tool_name":"find_technicians","arguments":{"technician_name":"小王","project":"肩颈按摩","start_time":"2026-06-09 14:00","duration":"未知"}}}
