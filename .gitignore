@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+
+eval_runs/
+
+predictions/*.jsonl
+!predictions/toy_predictions.jsonl
