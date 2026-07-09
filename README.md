@@ -14,6 +14,14 @@
 - 大体积模型预测文件
 - 临时缓存与运行输出
 
+## Releases
+
+- `releases/slot_extractor_eval_v214_main_prompt_v3/`
+  - 当前 `prompt_v3` 主评估发布包
+  - 主评估集：`eval.jsonl`，共 `214` 条
+  - 配套文件：`prompt.md`、`overview.md`、`report.md`
+  - 额外探针：`probe_state_only_confirmation.jsonl`、`probe_async_pending.jsonl`
+
 ## 目录
 
 ```text
